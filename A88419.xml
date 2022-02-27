@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands doxologie. Or rather The three kingdomes eucharisticall sacrifice at the altar of th' Almighty. For the manifold mercies, and miraculous deliverances vouchsafed at sundry times to the severall nations. To which is annexed a briefe relation of the memorable acts, and prosperous proceedings of the high, honourable, and happy assembly of Parliament, in this present year of grace, 1641. / Composed by J. L. in Art: Mag. Non nobis, domine, non nobis, sed tuo nomini fit gloria.</title>
+            <author>J. L., in Art. Mag.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88419</idno>
+            <idno type="STC">Wing L28</idno>
+            <idno type="STC">Thomason E172_20</idno>
+            <idno type="STC">ESTC R17320</idno>
+            <idno type="EEBO-CITATION">99860171</idno>
+            <idno type="PROQUEST">99860171</idno>
+            <idno type="VID">112281</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88419)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112281)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E172[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands doxologie. Or rather The three kingdomes eucharisticall sacrifice at the altar of th' Almighty. For the manifold mercies, and miraculous deliverances vouchsafed at sundry times to the severall nations. To which is annexed a briefe relation of the memorable acts, and prosperous proceedings of the high, honourable, and happy assembly of Parliament, in this present year of grace, 1641. / Composed by J. L. in Art: Mag. Non nobis, domine, non nobis, sed tuo nomini fit gloria.</title>
+                  <author>J. L., in Art. Mag.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Barnard Alsop, dwelling in Grubstreet,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112281:1" rendition="simple:additions"/>
+            <p>ENGLANDS DOXOLOGIE OR RATHER The three Kingdomes Eucharisticall Sacrifice at the Altar of th'Almighty. For the manifold Mercies, and miraculous Deliverances vouchſafed at ſundry times to the ſeverall Nations.</p>
+            <p>To which is annexed A BRIEFE RELATION OF The memorable Acts, and proſperous proceedings of the High, Honourable, and happy Aſſembly of <hi>PARLIAMENT, In this preſent yeare of Grace,</hi> 1641.</p>
+            <p>
+               <hi>Compoſed by</hi> J. L. <hi>in Art: Mag.</hi>
+            </p>
+            <q>
+               <l>Non nobis, Domine, non nobis,</l>
+               <l>Sed tuo nomini ſit gloria.</l>
+            </q>
+            <figure>
+               <p>C R</p>
+            </figure>
+            <p>Imprinted at London by Barnard Alſop, dwelling in Grubſtreet, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112281:2"/>
+            <pb n="1" facs="tcp:112281:2"/>
+            <head>Englands Doxologie.</head>
+            <p>THere is no Nation under heaven, that hath received more temporall &amp; ſpirituall favours from <hi>Almigh<g ref="char:EOLhyphen"/>ty God,</hi> then this Kingdome of <hi>England.</hi> Wat Bleſ<g ref="char:EOLhyphen"/>ſings can be nominated, which we have not enjoy<g ref="char:EOLhyphen"/>ed? We have <hi>fulneſſe</hi> in our <hi>Granaries, peace within our Wals, and plenty within our Palaces:</hi> Ther's no leading into Capti<g ref="char:EOLhyphen"/>vity, nor complaining in our ſtreets, the voyce of the <hi>Turtle</hi> hath bin heard in our Land: we have ſwum in pleaſures, and had all the varieties of contentments that our curious fancies can imagine. Our Oxen are ſtrong to labour, our ſheepe pro<g ref="char:EOLhyphen"/>ſper, all things ſucceed well, <hi>and we have a Land flowing with milk and honey.</hi> And for ſpirituall Mercies, no people under the Sun ever went beyond us.</p>
+            <p>Though our <hi>workes of darkneſſe might eclipſe the Sunſhine of Gods goodneſſe, yet the bright beames of the Goſpell have glo<g ref="char:EOLhyphen"/>riouſly ſhin'd upon us, and the ſilver Bels of Aron have melodi<g ref="char:EOLhyphen"/>ouſly bin rung amongſt us.</hi> This Evangellicall and tranſcendent mercy hath bin inlarged to us. Indeed, this is the fineſt of the wheat, with which God doth feed his people, 56. <hi>Pſal.</hi> 11. <hi>By this he hath delivered us from the Aegypt of Rome, from the houſe of Bondage, and from Antichriſtian hereſie and ſuper<g ref="char:EOLhyphen"/>ſtition.</hi> And though there have bin amongſt us, and are ſtill; many diſſolute, idle, and illiterate Miniſters, who are a ſtaine and blemiſh to their ſacred function, and profeſſion; yet (for <hi>the honour of the Church of England I ſpeak it</hi>) there were ne<g ref="char:EOLhyphen"/>ver more pious, painfull, and learned Paſtors in other Coun<g ref="char:EOLhyphen"/>tries, then are now here in this Kingdome.</p>
+            <pb n="2" facs="tcp:112281:3"/>
+            <p>God hath not dealt ſo with every Nation, no not with any Nation. We have with the peace of the Goſpell, enjoyed the Goſpell of peace above theſe 80. years. Thus the fountain of Gods goodneſſe is inexhanlt, and indeficient, never ceaſing in his gratious emanation, but ever flowing in the ſweet ſtreams of his mercies. And for wonderfull deliverances, how hath God in them gone along with us? From what horrid plots, and hideous <hi>Conspiracies</hi> hath the Lord ſecur'd us? From what <hi>monſtrous machinations,</hi> &amp; never the like heard of <hi>Com<g ref="char:EOLhyphen"/>binations, both forrain and domeſticke,</hi> even of thoſe who have <hi>treacherouſly</hi> indeavour'd the demolition of the whole ſtare? Did not God moſt graciouſly deliver this Kingdome from the very jawes of death; in miraculouſly preſerving us from that paire of matchleſſe ſtratagems, <hi>the Spaniſh Invaſion in</hi> 88. <hi>and the Helliſh Gun-powder Treaſon in</hi> 1605. O <hi>that wee would remember the dayes of old, and conſider ſo many genera<g ref="char:EOLhyphen"/>tions! O that men would therefore praiſe the Lord for his goodneſſe, and declare the wonders that he doth for the children of men, 'Tis the burthen of the ſong of the ſweet ſinger of Iſrael in the</hi> 107. <hi>Pſal. no leſſe then</hi> 4. <hi>ſever all times. Great &amp; ſtupen<g ref="char:EOLhyphen"/>dious things hath the Lord done for us. And that which addes unto our happineſſe is this, that a Religious peace crownes all theſe. Pax optima rerum;</hi> Ther's nothing ſo divine and acce<g ref="char:EOLhyphen"/>ptable to God and man, as <hi>peace;</hi> nothing more delightfull to be heard, nothing more profitable to be deſired, nothing more happy to be enjoyed then <hi>poace. Pacem te poſcimus om<g ref="char:EOLhyphen"/>nes. we all deſire peace. Peace is the darling of heaven, the delight of the Earth, and joy of the Angels: 'Tis the Daughter of cha<g ref="char:EOLhyphen"/>rity, the Nurſe of Piety, the nerves &amp; ſinues of Commor-welths, and ſocieties. 'Tis the firme knot &amp; ſtrongeſt bond of all Corpo<g ref="char:EOLhyphen"/>rations, by which meanes, Countries and Kingdomes (like Salo<g ref="char:EOLhyphen"/>mons triple cord) are inviolable, and indiſſolubly joyn'd together.</hi>
+            </p>
+            <p>We may ſee the happineſſe of peace, by the contrary, in the miſery of warre. Many calamities are involv'd in this one vengeance of warre. When thouſands of men and horſes ſhall ſet their feet upon a ſoyle, how ſoone are they all cut off by the cruelty of war, both men and horſes wallowing in their
+<pb n="3" facs="tcp:112281:3"/>own bloud; ſo quickly is a fruitfull Land become barren, or the wickedneſſe of the <hi>people</hi> that dwell therein. Thoſe were fearefull times, when Gods <hi>Churches,</hi> and mens houſes were flaming over their heads; when the barbarous ſouldier made it nothing to toſſe tender Infants upon their Pikes, when the impotent wife was bereav'd of her deare husband, deſi<g ref="char:EOLhyphen"/>ting to dye with him, with whom ſhe cou'd not live. The Ba<g ref="char:EOLhyphen"/>rons warres in this Kingdome for the time of their continu<g ref="char:EOLhyphen"/>ance were ſo deplorable, that we have all cauſe to bleſſe his memory that united the red <hi>Roſe</hi> and the white. Happy was the union then between the two Houſes of <hi>York</hi> and <hi>Lanca<g ref="char:EOLhyphen"/>ſter,</hi> and as happy is the Pacification now betwenee the two Kingdomes of <hi>England</hi> and <hi>Scotland.</hi> So unfortunate is warre and ſo happy a thing is peace, that ever let us pray to the God of peace, with our <hi>Church</hi> in the Liturgy, Give peace in our time, O Lord, <hi>And from Battell and Murther good Lord deliver us.</hi>
+            </p>
+            <p>It is a generall received opinion amongſt Phyſitians, that in the cure of dangerous and violent Diſeaſes, of all things Reſt is moſt helpfull and comfortable to the patient: In like man<g ref="char:EOLhyphen"/>ner, for the curing of thoſe perilous wounds, which have long ſince bin made, and are ſtill mortally infixed in the bowels &amp; vitall parts of Chriſtendome, the ſole and ſoveraign Remedy that can be preſcribed, is Peace. Warre is the ſcourge of the Almighty, the event of it doubtfull, and therefore it is never to be raſhly undertaken, when it may be wiſely prevented: for as Nature hath appointed no Phlebotomy, no letting of bloud, but in caſes of extremity; ſo Grace doth admit of no warre, and allow no ſhedding of Mans bloud, but in caſes of neceſſity, and when there is no other Remedy. Warre is the Plagiary of Government, the <hi>Incendiary</hi> and <hi>fire-brand</hi> of a Nation, but <hi>Peace</hi> is a <hi>Sanctuary</hi> and <hi>Preſerver</hi> of a <hi>People. Specioſum nomen pacis,</hi> I and <hi>precioſuni</hi> too. The very name of peace is lovely.</p>
+            <p>The <hi>Iewes</hi> compirz'd all felicity under the name of <hi>Peace,</hi> &amp; therefore their ſalutation was, <hi>Pax vobis, Peace be unto you. Life, Liberty, Dignity, Tranquillity, ſafety, and prosperity, Arts, Learning, things Civill, Politique, Divine, and Humane,</hi> all are
+<pb n="4" facs="tcp:112281:4"/>contained in <hi>peace.</hi> This heavenly and admirable bleſſing do we now enjoy. The thunder of the Canon (the Language of warre) is the beſt <hi>Rhetorick</hi> to commend this <hi>peace.</hi> The noyſe of that Thunder is dreadfull, and hath bin often heard in other Countries to their terror and amazement, but (God be thanked) it is not audible in our Eares.</p>
+            <p>Look upon the Empire of <hi>Germany,</hi> what a havock &amp; deſo<g ref="char:EOLhyphen"/>lation ha's the <hi>Sangninean</hi> hand of warre made there? View our <hi>Neighbor Nation of France.</hi> Behold that <hi>Grand-monarch</hi> of <hi>Spaine;</hi> Take a ſurvay of the <hi>Netherlands,</hi> and thoſe paſſa<g ref="char:EOLhyphen"/>ges between the <hi>States</hi> and the Houſe of <hi>Auſtria;</hi> conſider theſe <hi>premiſſes,</hi> &amp; you will eaſily conclude the ruine &amp; deva<g ref="char:EOLhyphen"/>ſtation, that direfull war hath bin the cauſe of in theſe latter times. Other great Kingdomes have lamentably ſuffered, on<g ref="char:EOLhyphen"/>ly this little Iſland is ſecure; And though many Pioners have bin at work many a time and often to undermine this Land, yet the Lord God of <hi>Iſrael</hi> hath bin a wall of fire round a<g ref="char:EOLhyphen"/>bout it. Within theſe two years, the laſt Summer ſave one, the <hi>Engliſh</hi> Army (conſiſting of 30000 horſe and foot) was marching toward <hi>Scotland,</hi> at the ſame time the <hi>Spaniſh Fleet</hi> (that formidable <hi>Armado</hi>) was intended for <hi>England.</hi> In an hoſtile Invaſion they came upon our Coaſts, the incurſion of the enemy, then was ſo unexpected of us, and at ſo ſeaſona<g ref="char:EOLhyphen"/>ble a time for them, that had the fire of that warre bin once throughly kindled, which was ſo long ſmoaking, there could not have bin wanting thoſe that would have added fewell to the flame. But happy was the houre, wherein the happy Paci<g ref="char:EOLhyphen"/>fication was concluded. For had that deſign of war gone on, we had long before this time bin expos'd to the pitty of our friends, the fury &amp; deriſion of our foes; who could not wiſh for a better opportunity, then to ſee this goodly and flouri<g ref="char:EOLhyphen"/>ſhing land, to imbrue her hands in her own bowels &amp; bloud. Had not our good God bin mercifull to us, this Kingdome had bin deſolate, we of comfort deſtitute, our ſtreets full of bloud, and our fields an <hi>Acheldama,</hi> or <hi>Golgotha,</hi> repleniſh't with dead Carkaſſes. That fatall warre (without Gods mer<g ref="char:EOLhyphen"/>cy) might have prov'd the <hi>Trojan</hi> horſe, to bring in an Army
+<pb n="5" facs="tcp:112281:4"/>of <hi>bloud-loving enemies</hi> to invade us; in the mid it whereof we might have bin all ſurprized by a forrain Adverſary.</p>
+            <p>This great myſtery of iniquity is now diſcovered, that which ſo long lay hid as a work of darknes, is at length brought to light, the prime Agents therein detected; and I wiſh that all they in this Land, who beare no good will to <hi>Syon,</hi> &amp; care not for the peace of <hi>Ieruſalem,</hi> may (according to their demerits) receive condigne puniſhment, for their <hi>treachery &amp; cruelty,</hi> in deſiting, and endeavouring that two Nations ſhould war with each other, that by weakning both, <hi>the Rrmiſh faction might grow the ſtronger, and with more facility take advantage of us.</hi> 'Tis not long ſince the Axe was laid to the root of the Tree; A warre was intended, and that a civill war, for other<g ref="char:EOLhyphen"/>wiſe I cannot term it, two Armies were in the field ready to fight <hi>(yet they did but looke one another in the face)</hi> the ſword was drawn, and the battaile pitch'd, deſolation &amp; deſtruction menaced: we had not then onely rumours of warres, but ef<g ref="char:EOLhyphen"/>fuſion of bloud on both ſides, skirmiſhes were begun, men were loſt, both <hi>Engliſh</hi> &amp; <hi>Scottiſh ſouldiers</hi> ſlain, &amp; every hour they look't to deſtroy one another; <hi>the ſubjects of one King, and people of one faith, members of the ſame myſticall body wher<g ref="char:EOLhyphen"/>of Chriſt is the head, profeſſors of one, &amp; the ſelf-ſame Religion; we of England, &amp; our brethren of Scotland were banded one a<g ref="char:EOLhyphen"/>gainſt another.</hi> A ſad Tragedy was begun, the Sceane was the <hi>North,</hi> the Actors were the ſubjects of both Kingdomes, but (magnified for ever be Gods mercy) 'tis inverted to a Co<g ref="char:EOLhyphen"/>medy, &amp; is come to a joyfull <hi>Cataſtrophe,</hi> We were as fire-brands ſnatcht out of the ſire, as birds eſcap'd from the ſuare, The God of peace, hath bleſt us with a ſetled peace. Ever bleſſed be our bleſſed God, that we and they were not the ruine and confuſion of each other.</p>
+            <p>The black ſtorm in the <hi>North</hi> is now diſſipated, the diſmall day is cleer'd up, and the faire Sun of conſolation hath ſhin'd upon us; for the two Nations are united, a bleſſed Pacificati<g ref="char:EOLhyphen"/>on is confirmed, this renowned <hi>Parliament</hi> hath made us all friends, and thoſe two late terrible Armies of both King<g ref="char:EOLhyphen"/>domes are quite disbanded, and quietly departed. Well may we ſay with the Princely <hi>Prophet, Lord, thou art become gra<g ref="char:EOLhyphen"/>cious
+<pb n="6" facs="tcp:112281:5"/>unto thy Land. The Lord hath ſpoke peace unto his people, and to his Saints that they turne not againe; for his ſalvation as nigh them that feare him, that glory mar dwell in our Land,</hi> 85. <hi>Pſal.</hi> 1.8, 9. <hi>verſes.</hi> God is our hope and ſtrength, a very preſent helpe in trouble. <hi>He maketh warres to ceaſe in all the world, he breaketh the bow, and knappeth the speare in ſun<g ref="char:EOLhyphen"/>der. The Lord of hosts is with us, the God of Iacob is our refuge. Pſal.</hi> 46.1.9, 11. Who would have thought that ſuch admi<g ref="char:EOLhyphen"/>rable things ſhould have bin in ſo ſhort a time effected and brought to paſſe, which we now behold? Certainly, it is the Lords doing, and it is marvellous in our eyes.</p>
+            <p>Let our right hand forget its cunning, and let our tongues cleave to the roofe of our mouthes, if we doe not acknow<g ref="char:EOLhyphen"/>ledg that the gracious hand of our glorious God hath in theſe proceedings gone along with us. Let us ever commemorate and never forget the mercies of th'almighty; but let the voyce of rejoycing be heard in our <hi>Churches</hi> and <hi>Congregati<g ref="char:EOLhyphen"/>ons,</hi> for the great ſalvation that God hath wrought for us; in putting to infamy all the enemies of our peace, in-defeating their plots, abating their pride, aſiwaging their malice, and in confounding their devices. Great cauſe and much matter have we of rejoycing and thanſgiving. Let us therefore in the name of God, rejoyce in the Lord, be thankfull to him, and ſpeak good of his name; Let us turn unto him, and turn from our wicked wayes, by humiliation for them, and refor<g ref="char:EOLhyphen"/>mation from them, and let us not ſpend that bloud in Forni<g ref="char:EOLhyphen"/>cation and Adultery, which he hath ſpar'd in his goodneſſe and mercy. Let every one ſay with <hi>David, quid retribuam? what ſhall I render u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>to the Lord?</hi> and with <hi>Iob, quid faciam? what ſhall I doe unto thee,</hi> O thou <hi>Preſerver of men,</hi> we all par<g ref="char:EOLhyphen"/>take of the mercy, and therefore let us all betake our ſelves to the duty. Let the 3. Kingdomes in generall, and every one of us in particular, offer (according to our obliged duty) this <hi>Euchariſticall Sacrifice</hi> at th' Altar of the Trinity, ſaying un<g ref="char:EOLhyphen"/>fainedly from the bottome of our hearts, <hi>Glory be to the Pa<g ref="char:EOLhyphen"/>ther, to the Son, and to the holy Ghoſt.</hi> And that we may really expreſſe our thanſgiving, Let us give our Almes to the poor,
+<pb n="7" facs="tcp:112281:5"/>and our bodyes and ſoules unto God; the former to his, and the latter to him, <hi>Rom.</hi> 12.1. Let us demonſtrate our thankfullneſſe <hi>cogitain, dictu, &amp; actu; in the thoughts of our hearts, in the words of our mouthes, and in the actions of our lives:</hi> For <hi>Gratitude</hi> is all the intereſt that God expects &amp; requires for his principall.</p>
+            <p>Many are the <hi>Arguments</hi> and <hi>Motives,</hi> perſwading us to give thankes unto the Lord for his Mercies and Delive<g ref="char:EOLhyphen"/>rances afforded to us of this Kingdome. Beſides Gods poſi<g ref="char:EOLhyphen"/>tive favours which we have received, innumerable privative mercies have we enjoyed. He hath not onely confer'd good things on us, but alſo kept evill things from us. He hath de<g ref="char:EOLhyphen"/>livered us out of the hands of our Enemies, and thoſe no little ones, but great Mountaines, potent, proud, &amp; impudent, implacable, ſecret, ſubtle, inſulting, dangerons, and many E<g ref="char:EOLhyphen"/>nemies, corrupt in their judgments, impious in their lives, men the more witty, the leſſe wiſe, and more wicked, the more politike the more peſtilent, and the more great they have appear'd the leſſe good they have prov'd.</p>
+            <p>What ſtrange plots and horrid conſpiracies <hi>(which God in his mercy hath prevented)</hi> have of late dayes bin attempted againſt us? What undermining there hath bin of the pro<g ref="char:EOLhyphen"/>feſſed Religion, and government of the State, how <hi>(under the pretence of vindicating the Kings honour)</hi> ſome malignant &amp; malevolent <hi>Statesmen,</hi> who have bin too neare his <hi>Majeſty,</hi> have endeavoured to oppreſſe the juſt liberty of his <hi>free-borne ſubjects,</hi> &amp; to ſuppreſſe the true Religion in his King<g ref="char:EOLhyphen"/>domes, how imminent our dangers were, how conſtant, cloſe, and confederated theſe Traytors have bin in their de<g ref="char:EOLhyphen"/>ſignes againſt us, <hi>the History of theſe times doth ſufficiently te<g ref="char:EOLhyphen"/>ſtifie.</hi>
+            </p>
+            <p>Looke into the <hi>Records</hi> of the ages paſt, <hi>reade Annals, ſearch Chronicles, examine Antiquities, and you cannot parallell the like.</hi>
+            </p>
+            <p>I am perſwaded, ſucceeding ages will hardly beleeve (as we who have had the <hi>Science</hi> and <hi>Experience</hi> cannot but
+<pb n="8" facs="tcp:112281:6" rendition="simple:additions"/>admire) that ſuch fowle birds ſhould be hatcht in ſo faire a Land as this is: ſo capitall have bin their crimes, and ſo haynous their late offences, that the generations to come will be aſtoniſht at this generation of Vipers, whoſe plots, projects, and practiſes, have aym'd, attempted, and endea<g ref="char:EOLhyphen"/>vour'd to involve all of us, and all that can be neare and deare unto us, our Religion, (the life of our ſoules) our well being with our very being, our Lawes, and our Liberties, in one univerſall deſolation and generall deſtruction. <hi>Prayſed be the Lord, who hath not given us a prey unto their teeth, Pſal.</hi> 1.24.6.</p>
+            <p>
+               <hi>Still have we juſt cauſe to offer unto the Lord the calves of our lips, that acceptable Sacrifice and Divin: Oblation of Praiſe and Thanksgiving.</hi>
+            </p>
+            <p>What though two <hi>Parliaments</hi> were diſſolved (and we were all then in that vacation and intermiſſion thereof, <hi>full of cares and feares</hi>) yet it hath pleas'd God in much mercy to move the Kings heart to ſummon a third, which is the laſt, (and I dare ſay the beſt) and will prove the happieſt that ever <hi>England enjoyed.</hi>
+            </p>
+            <p>'Tis true God hath 3 ſhafts in the quiver of his Juſtice, LIMOS, LOIMOS, Ki POLEMOS, <hi>Famine, Plague, and Warre;</hi> theſe ſharpe Arrowes this great Archer uſually ſhootes at a Nation in his anger and indignation, being pro<g ref="char:EOLhyphen"/>voked thereunto by their grievous and crying ſinnes: And though theſe Arrowes, of the Almighty have bin and are oftentimes abroad in the world amongſt us, (<hi>as at this pre<g ref="char:EOLhyphen"/>ſent he hath ſent out his arrowes and ſcattered them, Pſal.</hi> 18.14) yet it pleaſeth him in h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s mercy to ſhoot beyond us, be<g ref="char:EOLhyphen"/>ſide us, over us, and ſhort of us; ſo that we abide under the ſhadow of the Almighty; <hi>for the Lord is our refuge, &amp; our fortreſſe, in whom we truſt. Surely he ſhall deliver us from the ſnare of the fowler, and from the noyſome peſtilence. Wee ſhall not be afraid for the terrour by night; nor for the arrow that flyeth by day; nor for the peſtilence that walketh in dark<g ref="char:EOLhyphen"/>neſſe, nor for the<g ref="char:cmbAbbrStroke">̄</g> deſtruction that waſteth at noone day, Pſal.</hi> 91.3.5, 6. <hi>v.</hi>
+            </p>
+            <pb n="9" facs="tcp:112281:6"/>
+            <p>What though the Viſitation hath within theſe few years rode circuit through the whole Kingdome, within theſe 3. moneths the. Contagion hath encreaſed, and though of late dayes grimme Death hath gone in triumph through our <hi>ſtreets</hi> and kept a dreadfull Seſſions here within <hi>London,</hi> and in the Suburbs thereof, yet we have good cauſe to be thank<g ref="char:EOLhyphen"/>full. For God preſerves us both in the plague, &amp; from the plague in taking it from them who are viſited, &amp; in keeping it from us who are not viſited. <hi>Thus in the midſt of judgment the Lord remembers mercy; And it is of his mercies that wee are not conſumed, becauſe his compaſſions faile not,</hi> 3. <hi>Lam.</hi> 22.</p>
+            <p>To enumerate all Gods mercies to our <hi>Engliſh Nation</hi> 'tis impoſſible; yet foraſmuch as the <hi>Parliament</hi> is the ab<g ref="char:EOLhyphen"/>ſtracted Quinteſſence and the Repreſentative body of the whole Kingdome, and <hi>(the State of the Kingdome being uni<g ref="char:EOLhyphen"/>ted in that one great Councill)</hi> the wellfare of the 3 Nations doth conſiſt in the happineſſe thereof, Let us for the Honour of the two Houſes in <hi>Parliament</hi> lately aſſembled, but eſpe<g ref="char:EOLhyphen"/>cially to the glory of God, commemorate ſome famous and never to be forgotten matters and Edicts, which thoſe illu<g ref="char:EOLhyphen"/>ſtrious <hi>Worthies of the world,</hi> and renowned <hi>Heroes</hi> of their Age (whoſe Statues deſerve to be ſet up in Gold) have <hi>hoc Anno aureo,</hi> this golden yeare concluded and enacted.</p>
+         </div>
+         <div type="text">
+            <pb n="1" facs="tcp:112281:7"/>
+            <head>A BRIEFE RELATION OF The Memorable ACTS, and proſperous Proceedings, of the high Honou<g ref="char:EOLhyphen"/>rable, and happy Aſſembly of <hi>Parliament.</hi>
+            </head>
+            <p>THey have recalled from Captivity, and reſtituted to their Livings &amp; Liberty ſundry godly Divines, and Religious Chriſtians, as (to inſtance three for all, who are ſufficiently knowne to all, <hi>Burton, Prinne, and Baſtwick.</hi>
+            </p>
+            <p>They have diſcovered, mulcted, and ſilenced ſcandalous <hi>Prieſts, profane Miniſters, and Popiſh Prelates.</hi>
+            </p>
+            <p>They have queſtioned the Lord <hi>Finch,</hi> once Lord <hi>Kee<g ref="char:EOLhyphen"/>per,</hi> his Fellow-fugitive Sir <hi>Francis Windebank,</hi> late <hi>Secretary to the State,</hi> and call'd to account divers corrupted Judges.</p>
+            <p>They have reſtrain'd of Liberry Sir <hi>George Ratcliffe.</hi>
+            </p>
+            <p>Impriſoned in the Tower the <hi>Archbiſhop, whom if I may call</hi> Worme, <hi>(as a farre better man then he term'd himſelfe no better) I am ſure 'tis an Epidemicall report both in the City &amp; Countrey that the little Arch-biſhop was the greateſt Adver<g ref="char:EOLhyphen"/>ſary and Cankerworme to this Church and State, that ever theſe latter times produc'd.</hi>
+            </p>
+            <pb n="11" facs="tcp:112281:7"/>
+            <p>They have quelled all the <hi>Canter burian faction.</hi>
+            </p>
+            <p>They have diſmounted the Canons, and damned that prodigious Oath in that ſtrange Synod.</p>
+            <p>They have cut off by the Axe of Juſtice the late Lord <hi>Lieutenant of Ireland.</hi>
+            </p>
+            <p>Theſe noble Senators have enacted a <hi>Trienniall Parlia<g ref="char:EOLhyphen"/>ment,</hi> thereby to perpetuate the preſent happineſſe of the King and Kingdome, and to ſecure th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Land from future miſeries.</p>
+            <p>They have damned Ship-money, that generall and in<g ref="char:EOLhyphen"/>ſupportable grievance to his Majeſties poore ſubjects.</p>
+            <p>They have taxed <hi>Monopolists</hi> and <hi>Pattentces</hi> (who have bin <hi>humanarum calamitatum mercatores, as an Author inge<g ref="char:EOLhyphen"/>niouſly ſtiles them) the Horſe-leeches und Caterpillers of theſe times.</hi>
+            </p>
+            <p>They have voted againſt <hi>Non-reſide,</hi> and diſplaced <hi>Pluraliſts,</hi> who are ſo far from being <hi>Paſtors,</hi> that indeed they are <hi>Impoſtors;</hi> rather <hi>Wolves</hi> to devoure then <hi>Shep-heards</hi> to feed Chriſts flocke: for they ayme at theirs more then at them, and at their goods more then their good.</p>
+            <p>They have decided <hi>Controverſies, ſentenced Romiſh Ce<g ref="char:EOLhyphen"/>remonies, Aboliſhed Antichriſtian Superſtitions, extirpated Innovations; and will ſhortly at their receſſe (by Gods gracious aſſiſtance) ſet led the Reformed Religion, in its primitive purity &amp; perfection, baniſhed Papiſts, Prieſts and Leſuites ſuppereſſed the two Courts of Star-chamber and the high Commiſſion, damp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Doctors Commons.</hi>
+            </p>
+            <p>Given an Order for the be<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſanctifying of the <hi>Lords Sabboths.</hi>
+            </p>
+            <p>They made an Ordinance for <hi>Acapitation,</hi> or <hi>Poll-mo<g ref="char:EOLhyphen"/>ney.</hi>
+            </p>
+            <p>They ordained two dayes this yeare to be kept holy and ſet apart for Gods ſervice and worſhip, the one fora; publick Faſt, to humble our ſelves before Almighty God the other (<hi>the</hi> 7. <hi>of September</hi>) for a generall Thankſgiving throughout his Majeſties Dominions in <hi>England</hi> and <hi>Scot<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <pb n="12" facs="tcp:112281:8"/>
+            <p>They voted the 13. Biſhops impeached by the <hi>Com<g ref="char:EOLhyphen"/>mons</hi> of <hi>England</hi> to be ſuſpended from the upper Houſe, till the time that they ſhall come to their Tryall.</p>
+            <p>They have eſtabliſhed and ſet up <hi>Lectures</hi> where they are wanting, in all the <hi>Pariſhes of this Realme of England, and the Dominion of Wales,</hi> to maintain <hi>Orthodox Miniſters.</hi>
+            </p>
+            <p>They have riglited the wronged, eaſed the oppreſſed and innocent, puniſhed the <hi>Nocent and Delinquents;</hi> De<g ref="char:EOLhyphen"/>nyed the late Requeſts of the <hi>French and Spaniſh Embaſſa<g ref="char:EOLhyphen"/>dors,</hi> cauſed a <hi>Proteſtation</hi> firſt of both the Houſes, next of the whole Kingdome; And laſt of all, (to omit many more which might be added) they have confirmed a bleſſed <hi>Pa<g ref="char:EOLhyphen"/>cification</hi> between the two Nations.</p>
+            <p>To draw all theſe <hi>lines</hi> to their <hi>Center,</hi>
+            </p>
+            <p>
+               <hi>Foraſmuch as in Gods speciall grace and effestuall good<g ref="char:EOLhyphen"/>neſſe ſtaends the ſafety of this, and the two other Kingdomes, and Gods glory by the Kingdomes ſafety; Let the three Nations be tyed in the treble bond of Religion to God, of Loyalty to the King, and of unity to one another.</hi>
+            </p>
+            <p>
+               <hi>For all Gods Mercies and Deliverances afforded unto us. Let us with Angels, and with Arch-Angels, ſing in the quire of the Church Militant, this heavenly Anthem,</hi> Gloria Deo in Excelſis, <hi>Glory be to God on high. With theſe</hi> 24. <hi>Elders in the</hi> 5. <hi>Revel.</hi> 8. <hi>and with the infinite thouſands of Angels, Let us fall down; and with all the Creatures which are in heaven, and on the earth, and under the earth, and in the Sea, and all that are in them, ſay, Bleſſing, Honour, Glory, and power be unto him that ſitteth upon the throne, and unto the Lambe for ever<g ref="char:EOLhyphen"/>more. Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
